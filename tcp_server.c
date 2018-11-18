@@ -13,7 +13,7 @@
 #include<string.h>      // bzero
 #include<unistd.h>
 
-#define SERVER_PORT 6737 
+#define SERVER_PORT 6753 
 #define LENGTH_OF_LISTEN_QUEUE 20
 #define BUFFER_SIZE 1024
 #define FILE_NAME_MAX_SIZE 512
